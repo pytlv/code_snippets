@@ -1,7 +1,12 @@
-
 import logging
+import os
 
-logging.basicConfig(filename='employee.log', level=logging.INFO,
+script_folder = os.path.dirname(os.path.abspath(__file__))
+print("Script folder:", script_folder)
+
+file_name = os.path.join(script_folder, "employee.log")
+
+logging.basicConfig(filename=file_name, level=logging.INFO,
                     format='%(levelname)s:%(message)s')
 
 

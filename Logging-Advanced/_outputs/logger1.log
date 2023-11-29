@@ -1,0 +1,28 @@
+2023-11-29 09:53:49,593:__main__:logger1 - This is a debug message
+2023-11-29 09:54:00,721:__main__:logger1 - This is a debug message
+2023-11-29 09:55:11,934:logger1:logger1 - This is a debug message
+2023-11-29 09:55:22,807:logger1:This is a debug message
+=========================
+2023-11-29 10:30:16,248:logger1:This is a debug message
+2023-11-29 10:32:06,707:logger1:This is a debug message
+2023-11-29 10:36:53,214:logger1:This is a debug message
+2023-11-29 10:37:28,220:logger1:This is a debug message
+2023-11-29 10:37:33,019:logger1:This is a debug message
+2023-11-29 10:38:36,379:logger1:This is a debug message
+2023-11-29 10:39:50,139:logger1:This is a debug message
+2023-11-29 10:40:43,632:logger1:This is a debug message
+2023-11-29 10:42:39,527:logger1:This is a debug message
+2023-11-29 10:42:39,527:logger2:This is a debug message for logger2
+2023-11-29 10:44:10,529:logger1:This is a debug message
+2023-11-29 10:44:10,529:logger2:This is a debug message for logger2
+2023-11-29 10:44:49,456:logger1:This is a debug message
+2023-11-29 11:02:33,899:logger1:This is a debug message
+2023-11-29 11:02:51,872:logger1:This is a debug message
+2023-11-29 11:03:47,552:logger1:This is a debug message
+2023-11-29 11:05:30,864:logger1:This is a debug message
+2023-11-29 11:05:55,766:logger1:This is a debug message
+2023-11-29 11:06:40,500:logger1:This is a debug message
+2023-11-29 11:06:42,438:logger1:This is a debug message
+2023-11-29 11:29:32,029:logger1:This is a debug message
+2023-11-29 11:30:16,232:root:This is a debug message
+2023-11-29 11:30:16,234:logger2:This is a debug message for logger2

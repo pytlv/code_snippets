@@ -1,0 +1,30 @@
+2023-11-28 11:09:39,063:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "d:\_code_22\Snippets_23\code_snippets\Logging-Advanced\log-sample.py", line 44, in divide
+    result = x / y
+             ~~^~~
+ZeroDivisionError: division by zero
+2023-11-28 11:20:48,717:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "d:\_code_22\Snippets_23\code_snippets\Logging-Advanced\advanced_log_sample.py", line 75, in divide
+    result = x / y
+             ~~^~~
+ZeroDivisionError: division by zero
+2023-11-28 11:32:27,896:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "d:\_code_22\Snippets_23\code_snippets\Logging-Advanced\advanced_log_sample.py", line 91, in divide
+    result = x / y
+             ~~^~~
+ZeroDivisionError: division by zero
+2023-11-28 19:52:55,008:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "d:\_code_22\Snippets_23\code_snippets\Logging-Advanced\advanced_log_html.py", line 99, in divide
+    result = x / y
+             ~~^~~
+ZeroDivisionError: division by zero
+2023-11-28 20:10:12,761:__main__:logger - Add: 10 + 0 = 10
+2023-11-28 20:11:45,231:__main__:logger - Add: 10 + 0 = 10
+2023-11-28 20:11:45,231:__main__:logger - Add: 10 + 0 = 10
+2023-11-28 20:12:41,167:__main__:logger - Add: 10 + 0 = 10
+2023-11-28 20:17:58,274:__main__:logger - Add: 10 + 0 = 10
+2023-11-28 20:23:52,193:__main__:logger - Add: 10 + 0 = 10
