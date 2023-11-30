@@ -1,0 +1,4 @@
+2023-11-29 21:05:08,621:root:This is a debug message
+2023-11-29 21:05:08,621:logger2:This is a debug message for logger2
+2023-11-29 21:05:13,296:root:This is a debug message
+2023-11-29 21:05:13,297:logger2:This is a debug message for logger2

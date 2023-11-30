@@ -8,3 +8,9 @@
 2023-11-29 11:06:42,439:logger2:DEBUG:_advanced_log_bh_logger:<module>:::This is a debug message for logger2
 2023-11-29 11:29:32,032:logger2:DEBUG:_advanced_log_bh_logger:<module>:::This is a debug message for logger2
 2023-11-29 11:30:16,234:logger2:DEBUG:_advanced_log_bh_logger:<module>:::This is a debug message for logger2
+2023-11-29 20:42:24,437:logger2:DEBUG:_advanced_log_bh_logger:<module>:::This is a debug message for logger2
+2023-11-29 20:45:28,360:logger2:DEBUG:_advanced_log_bh_logger:<module>:::This is a debug message for logger2
+2023-11-29 20:45:33,551:logger2:DEBUG:_advanced_log_bh_logger:<module>:::This is a debug message for logger2
+2023-11-29 20:46:43,749:logger2:DEBUG:_advanced_log_bh_logger:<module>:::This is a debug message for logger2
+2023-11-29 20:47:44,101:logger2:DEBUG:_advanced_log_bh_logger:<module>:::This is a debug message for logger2
+2023-11-29 20:48:10,058:logger2:DEBUG:_advanced_log_bh_logger:<module>:::This is a debug message for logger2
